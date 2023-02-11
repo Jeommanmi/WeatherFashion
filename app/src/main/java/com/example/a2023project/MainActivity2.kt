@@ -15,7 +15,6 @@ import androidx.annotation.RequiresApi
 import com.example.a2023project.component.Common
 import com.example.a2023project.data.ModelWeather
 import com.example.a2023project.databinding.ActivityMain2Binding
-import com.example.a2023project.databinding.ActivityMainBinding
 import com.example.a2023project.network.WeatherObject
 import com.google.android.gms.location.LocationCallback
 import com.google.android.gms.location.LocationRequest
